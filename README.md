@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FariziErlangga
 - 👀 I’m interested in Back-End 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
