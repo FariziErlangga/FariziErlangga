@@ -1,6 +1,6 @@
 <h1 align="center">Hi There👋, I'm Farizi Erlangga</h1>
 <h3 align="center">Iam interested about Backend-Engineer</h3>
-<p><img align="right" alt="gif" width="320" src="https://github.com/FariziErlangga/FariziErlangga/blob/main/coding-typing.gif"></p>
+<img align="right" alt="gif" width="320" src="https://github.com/FariziErlangga/FariziErlangga/blob/main/coding-typing.gif">
 
 - 🌱 I’m currently learning **Python & Git and something about backend**
 
