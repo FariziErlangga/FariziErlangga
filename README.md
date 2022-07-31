@@ -1,5 +1,6 @@
-<h1 align="center">Hi There👋, I'm Farizi Erlangga</h1>
-<h3 align="center">Iam interested about Backend-Engineer</h3>
+<h1 align="left">Hi There👋, I'm Farizi Erlangga</h1>
+<h3 align="left">Iam interested about Backend-Engineer</h3>
+<img align="right" alt="gif" width="400" scr="https://tenor.com/bCNex.gif">
 
 - 🌱 I’m currently learning **Python & Git and something about backend**
 
