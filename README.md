@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I'm Farizi Erlangga</h1>
 <h3 align="center">Iam interested about Software Engineer</h3>
 
-- 🌱 I’m currently learning **Python & Git and something about software engineer**
+- 🌱 I’m currently learning **Python and something about software engineer**
 
 - 📫 How to reach me **farizierlangga2@gmail.com**
 
